@@ -1,0 +1,18 @@
+{
+	"production": true, 
+	"debug": false, 
+	"twitter": {
+		"consumer_key": "", 
+		"secret_key": "", 
+		"access_token": "", 
+		"access_token_secret": "", 
+		"delay": 420000
+	}, 
+
+	"db": {
+		"base_url": "mongodb://", 
+		"username": "", 
+		"password": "", 
+		"path": ""
+	}
+}

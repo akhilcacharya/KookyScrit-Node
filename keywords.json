@@ -1,0 +1,17 @@
+{
+	"query_words": [
+		{
+			"word": "wierd", 
+			"responses": [
+				"I before E except after C: weird" 
+			]
+		}, 
+
+		{
+			"word": "definately", 
+			"responses": [
+				"It's an \"i\", not an \"a\": definitely"
+			]
+		}
+	]	
+}

@@ -1,0 +1,10 @@
+{
+   "name": "kookyscrit-node",
+   "version": "0.0.1",
+   "private": true,
+   "dependencies": {
+       "mongoose": "*", 
+       "twit": "*", 
+       "lodash-node": "*"
+  }
+}
