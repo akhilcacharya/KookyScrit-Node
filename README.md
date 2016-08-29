@@ -1,6 +1,15 @@
+
+A Twitter bot I wrote in Node - the original version was written in Java in 2013 and was even worse than this one. Check it out https://twitter.com/kookyscrit
+
+(This was around the same time they started banning most bots - our record was a ban after 2 hours!).
+
+----
+
 #KookyScrit-Node
 
 Revamped, for Node.js. 
+
+Corrects word usage for random people on Twitter. Inspired by @StealthMountain 
 
 ##Installation
 
